@@ -17,7 +17,7 @@ This script automates sending WhatsApp messages to a list of numbers using Pytho
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your_username/whatsapp-message-sender.git
+   git clone https://github.com/Wafik20/AutomatedWhatsappMessaging.git
    cd whatsapp-message-sender
 
 2. **Create a Virtual Environment:**
